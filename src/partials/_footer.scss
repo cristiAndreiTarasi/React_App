@@ -1,0 +1,56 @@
+
+footer {
+    height: 100px;
+    display: flex;
+
+    .cols {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h1 {
+            color: #6f83e7;
+            font-weight: bolder;
+
+            span {
+                line-height: 50px;
+                color: #8f8f8f;
+            }
+        }
+
+        ul {
+            display: flex;
+            width: 200px;
+            display: flex;
+            justify-content: space-between;
+            align-content: center;
+            list-style: none;
+
+            li {
+                margin: 0; 
+                padding: 0;
+
+                a { color: #8f8f8f; }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

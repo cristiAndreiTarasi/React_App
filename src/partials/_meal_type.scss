@@ -1,0 +1,22 @@
+.meals {
+    height: 940px;
+    background-color: #ededed;
+
+     .head {
+         display: flex;
+         align-items: center;
+         height: 120px;
+         background-color: #00c234;
+         color: #fff;
+         font-size: 2.5em;
+
+        .container { 
+            display: flex;
+            justify-content: center;
+
+            p {
+                display: inline-block;
+            }
+        }
+     }
+}

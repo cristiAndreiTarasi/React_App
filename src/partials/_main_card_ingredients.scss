@@ -1,0 +1,19 @@
+
+.card_type {
+    width: 350px;
+    height: 350px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ededed;
+
+    svg {
+        color: #24c9eb;
+    }
+
+    .ct {
+        margin-top: 20px;
+    }
+}

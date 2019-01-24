@@ -1,0 +1,16 @@
+.featured { 
+    height: 510px;
+    background-color: #eee;
+
+    .card {
+        width: 350px;
+        height: 420px;
+        border: none;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+
+        .card-img-top {
+            height: 200px;
+        }
+    }
+ }

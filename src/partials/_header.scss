@@ -1,0 +1,17 @@
+
+.navbar {
+    background-color: rgba(#fff, .1);
+    height: 80px;
+
+    .navbar-brand {
+        font-weight: bolder;
+        font-size: 2em;
+        color: #fff;
+    }
+
+    .collapse .nav-link, 
+    .collapse .active .nav-link {
+        color: #ddd;
+        font-size: 1.2em;
+    }
+}
