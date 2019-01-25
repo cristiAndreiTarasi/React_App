@@ -10,7 +10,7 @@ const Footer = () => {
             <div class="container">
                 <div class="cols">
                     <div class="text-left py-3">
-                        <h1>LUXUS <span class="lead"> | Results through design and technology</span></h1>
+                        <h1>LOGO<span class="lead"> | Results through design and technology</span></h1>
                         
                     </div>
 
